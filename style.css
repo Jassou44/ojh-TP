@@ -1,0 +1,45 @@
+body{
+    background-color:coral
+}
+.button {
+    background-color: #1c87c9;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 34px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+.Bienvenue{
+    text-align: center;
+    color:blue;
+}
+.Qui{
+    text-align: center;
+}
+.Prendre{
+    text-align: center;
+}
+.video{
+    display:flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    text-align: center;
+}
+.submit_button {
+    background-color: none;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 15px 34px;
+    text-align:left;
+    font-size: 10px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .Go{
+    text-align: right;
+  }

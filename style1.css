@@ -1,0 +1,43 @@
+body{
+    background-image:url(backgroung.webp)
+}.button {
+    background-color: #1c87c9;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    padding: 15px 34px;
+    text-align: center;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .Services{
+    text-align: center;
+    color:darkorange;
+  }
+  .Salles{
+    text-align:center;
+  }
+.Soins{
+    text-align:center;
+}
+.Boutique{
+    text-align: center;
+}
+.Notre{
+    text-align: center;
+    color:darkorange;
+}
+.Nettoyant{
+    text-align: center;
+}
+.Masque{
+    text-align: center;
+
+}
+.Manicures{
+    text-align: center;
+}
+.Epilations{
+    text-align: center;
+}
